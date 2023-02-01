@@ -1,0 +1,14 @@
+#PAROLE BASE
+Allegher Ciao
+Can Cane
+Gat Gatto
+Rat Ratto
+Dì  Giorno
+Sira  Sera
+Nocc  Notte
+Bon Buono
+Bona  Buona
+Bon dì  Buon giorno
+Bona sira Buona sera
+Bona nocc Buona notte
+'Me la va?  Come va?
